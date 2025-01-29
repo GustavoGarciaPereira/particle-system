@@ -31,7 +31,7 @@ Este projeto cria um sistema dinâmico de partículas com as seguintes caracter�
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/particle-system.git
+git clone https://github.com/GustavoGarciaPereira/particle-system.git
 cd particle-system
 ```
 
